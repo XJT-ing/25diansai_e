@@ -1,0 +1,47 @@
+﻿# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+
+# Build outputs
+build/
+dist/
+out/
+
+# Large files / datasets
+datasets/
+data/
+captures/
+*.mp4
+*.avi
+*.mov
+*.zip
+*.rar
+*.7z
+
+# Model weights
+*.pt
+*.pth
+*.onnx
+*.engine
